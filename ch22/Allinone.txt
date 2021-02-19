@@ -1,0 +1,18 @@
+
+x = 1
+y = 2
+z = 3
+
+z(3) is greater
+
+x + y = 3
+y + z = 5
+x + z = 4
+x * y = 2
+y * z = 6
+x * z = 3
+
+strudent detail
+
+10 - apple
+20 - microsoft

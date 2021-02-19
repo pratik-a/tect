@@ -1,0 +1,25 @@
+Exercises: Chapter 14
+
+   1. Write a program to allocate memory of array size 16 using malloc, print the array.
+
+   2. Write a program to allocate memory of structure using calloc, print member of Structure: Name and Phone no.
+
+Exercises: Chapter 15
+
+   1.  Write a program to allocate memory of array size 16 using malloc, change the value of elements using pointer.
+
+Exercises: Chapter 16
+
+   1. Write a program to generate a Table.txt file, write a table of 10 in the same file. 
+
+   2. Write a program to read the table of 10 from above file and print it.
+
+   3. Write a program to add a table of 11 in the same file without changing the existing content in the Table.txt file.
+
+Exercises: Chapter 17
+
+   1. Write a program: Function called math takes argument x and y and returns Summation (S) and Multiplication (M) of x and y, print S and M. 
+
+Exercises: Chapter 18
+
+   1. Write a program to generate structure of name, allocate memory using malloc and copy memory to another structure variable and print both.
